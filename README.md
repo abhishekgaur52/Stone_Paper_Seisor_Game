@@ -1,6 +1,7 @@
 # Stone_Paper_Scissor_Game
 ```
-A simple command-line **Stone Paper Scissors** game written in Python. The player competes against the computer, which randomly selects its move.
+A simple command-line **Stone Paper Scissors** game written in Python. 
+The player competes against the computer, which randomly selects its move.
 ```
 ## Features
 ```
